@@ -166,3 +166,14 @@ ruoyi-ui/
 ├── README.md
 └── package.json
 ```
+<img width="1593" height="744" alt="image" src="https://github.com/user-attachments/assets/0b63b595-55f3-4594-829b-7cf25b2dc1d6" />
+<img width="1599" height="745" alt="image" src="https://github.com/user-attachments/assets/6c8f11f8-ea0f-4505-baa5-99ccb580f6da" />
+<img width="1595" height="754" alt="image" src="https://github.com/user-attachments/assets/375607dc-acfa-41c3-b8c7-c7cc3bc9f6cb" />
+<img width="1595" height="746" alt="image" src="https://github.com/user-attachments/assets/04cb9f29-0361-4ba2-9950-bbd2bf59cd7a" />
+<img width="1594" height="734" alt="image" src="https://github.com/user-attachments/assets/7bec756f-4b02-4ab5-afd3-e07d259adc59" />
+<img width="1600" height="797" alt="image" src="https://github.com/user-attachments/assets/9178ff5c-4326-4fb7-93bb-5b47170b9d4a" />
+
+
+
+
+
